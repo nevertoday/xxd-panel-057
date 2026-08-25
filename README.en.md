@@ -34,6 +34,12 @@ GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL DIAGRAM · ART MAP 
 
 Extract the subject, silhouette, and relationships worth remembering, then compress them into geometric planes, rectangular units, fine-line frames, and layered grids. Near-white space and warm–cool colour fields balance architectural reason with the warmth of memory.
 
+## Original prompt · Five languages
+
+[Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remains the sole runtime aesthetic authority. The other four files are faithful reading translations for international readers and sharing; they never rewrite the image-generation prompt.
+
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 057 right for you?
 
@@ -61,11 +67,11 @@ lock identity, silhouette, and key relations → remove irrelevant setting and d
 - Cream, apricot, peach, coral, and dusty rose meet sky blue, pale aqua, mint, and muted green in restrained warm–cool tension.
 - Subjects may sit off-centre, suspended, low, or converge through layered modules; thin microtype belongs to the whitespace and geometry rather than a fixed title template.
 
-Aesthetic constraints and rejection rules live only in the [original source brief](references/057-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-057-prompt.en.md)
+Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-057-prompt.en.md)
 
 ## The original brief is authoritative
 
-`references/057-source.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+`references/original-prompt/zh-CN.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
 
 Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
 
@@ -205,7 +211,7 @@ $xxd-panel-057
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/057-source.md) · [English runtime adapter](references/xxd-panel-057-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-057-prompt.zh-CN.md)
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-057-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-057-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
