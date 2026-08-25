@@ -1,0 +1,45 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 057</title>
+  <desc>Reconstruct photographs with geometric planes, intelligent mosaic structure, architectural linework, near-white space, and warm-cool colour fields.</desc>
+  <defs><clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#FBF8EF"/>
+    <path d="M888 0H1200V400H1016L952 329L990 247L904 177L954 92Z" fill="#F3D4A0" fill-opacity=".42"/>
+    <path d="M1008 48H1170V207H1087V280H926V184H1008V48Z" fill="#DCE5CF" fill-opacity=".85"/>
+
+    <g transform="translate(58 42)">
+      <rect width="224" height="34" rx="8" fill="#2F3932"/>
+      <text x="16" y="22" fill="white" font-family="Arial,sans-serif" font-size="13" font-weight="900" letter-spacing="2">🦁 XXD / IMAGE SKILL</text>
+      <text y="112" fill="#2F3932" font-family="Arial,sans-serif" font-size="68" font-weight="900" letter-spacing="-3">PANEL <tspan fill="#E37A54">057</tspan></text>
+      <text x="2" y="151" fill="#65836D" font-family="Arial,sans-serif" font-size="13" font-weight="900" letter-spacing=".15">GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL ORDER</text>
+      <text x="2" y="198" fill="#303833" font-family="sans-serif" font-size="18" font-weight="800">把照片重组为安静而温暖的几何记忆</text>
+      <text x="2" y="230" fill="#626B61" font-family="sans-serif" font-size="14" font-weight="700">写真を静かで温かな幾何学的記憶へ再構成</text>
+      <text x="2" y="260" fill="#626B61" font-family="sans-serif" font-size="14" font-weight="700">사진을 고요하고 따뜻한 기하학적 기억으로 재구성</text>
+      <text x="2" y="291" fill="#626B61" font-family="Arial,sans-serif" font-size="13" font-weight="700">إعادة بناء الصورة كذاكرة هندسية هادئة ودافئة</text>
+    </g>
+
+    <g transform="translate(58 334)">
+      <rect width="105" height="34" rx="8" fill="#303833"/><text x="52.5" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="900">SOURCE-BOUND</text>
+      <rect x="117" width="88" height="34" rx="8" fill="#E37A54"/><text x="161" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="900">4 MODES</text>
+      <rect x="217" width="132" height="34" rx="8" fill="#6E9F80"/><text x="283" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="900">WALLPAPER PACK</text>
+    </g>
+
+    <g transform="translate(806 45)">
+      <rect x="12" y="15" width="318" height="300" fill="#FFFDF7" stroke="#98A78E" stroke-width="2"/>
+      <path d="M42 45V285M82 45V285M122 45V285M162 45V285M202 45V285M242 45V285M282 45V285" stroke="#C9D0C2" stroke-width="1"/>
+      <path d="M42 75H302M42 115H302M42 155H302M42 195H302M42 235H302M42 275H302" stroke="#C9D0C2" stroke-width="1"/>
+      <rect x="42" y="195" width="80" height="80" fill="#E99B6E" fill-opacity=".78"/>
+      <rect x="122" y="155" width="40" height="120" fill="#F0C66D" fill-opacity=".82"/>
+      <rect x="162" y="115" width="80" height="80" fill="#8DB399" fill-opacity=".9"/>
+      <rect x="202" y="195" width="80" height="40" fill="#C5D9D6"/>
+      <rect x="242" y="235" width="40" height="40" fill="#4F785B"/>
+      <path d="M81 195C92 168 104 139 123 114C144 87 168 68 196 53" stroke="#4F785B" stroke-width="7" stroke-linecap="round"/>
+      <path d="M121 119C99 113 86 99 87 80C108 81 124 96 121 119Z" fill="#6B946F"/>
+      <path d="M151 84C152 63 163 48 181 42C185 61 173 79 151 84Z" fill="#86AA7D"/>
+      <path d="M119 155H284" stroke="#31453A" stroke-width="2"/>
+      <path d="M202 77V275" stroke="#E37A54" stroke-width="2" stroke-dasharray="5 7"/>
+      <circle cx="302" cy="45" r="6" fill="#E37A54"/>
+      <circle cx="42" cy="285" r="6" fill="#F0C66D"/>
+    </g>
+  </g>
+</svg>

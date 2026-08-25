@@ -1,0 +1,322 @@
+<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 057 project banner" width="1200"></p>
+
+<div align="center">
+
+# 🦁 XXD Panel 057
+
+### Rebuild photographs as quiet, warm modern collages through geometry and intelligent mosaic structure
+
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
+[![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
+[![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
+
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+
+</div>
+
+## Samples · From X
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2092160522711978218"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 057 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2092160522711978218"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 057 sample 2"></a></td>
+  </tr>
+</table>
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2092160522711978218) · 25 August 2026<br>
+> GPT2 × geometry × healing collage × aesthetic prompt × VOL.057
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2092160522711978218">View the original post and full prompt →</a></p>
+
+These samples demonstrate 057's aesthetic result only. Their subjects, composition, palette, copy, and earlier canvas ratio never become references or defaults for a new task.
+
+GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL DIAGRAM · ART MAP · WARM–COOL FIELDS
+
+Extract the subject, silhouette, and relationships worth remembering, then compress them into geometric planes, rectangular units, fine-line frames, and layered grids. Near-white space and warm–cool colour fields balance architectural reason with the warmth of memory.
+
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 057 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Rebuild photographs as quiet, warm modern collages through geometry and intelligent mosaic structure |
+| **Recognizable signature** | GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL DIAGRAM · ART MAP · WARM–COOL FIELDS |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
+
+The style identifies the photograph's defining subject, silhouette, posture, and narrative relationships, removes irrelevant surroundings, and reorganizes only the information worth remembering into clear geometric modules. It is neither random pixelation nor an object-by-object illustration filter.
+
+```text
+lock identity, silhouette, and key relations → remove irrelevant setting and detail → distil what deserves to be remembered → compress it into planes, rectangles, and layered grids → establish air and distance with near-white space → build an intelligent mosaic through warm–cool fields, axes, and alignment → integrate only meaningful minimal text
+```
+
+## What makes the finished style recognizable
+
+- Large forms keep legible silhouettes while details become ordered colour blocks, grid points, slices, stepped edges, and local interlocks.
+- Rectangular units, fine-line frames, layered grids, partial axes, and alignment lines create architectural order rather than pixel noise.
+- A source-responsive near-white ground and generous negative space keep the geometric subject light, clean, and quiet.
+- Cream, apricot, peach, coral, and dusty rose meet sky blue, pale aqua, mint, and muted green in restrained warm–cool tension.
+- Subjects may sit off-centre, suspended, low, or converge through layered modules; thin microtype belongs to the whitespace and geometry rather than a fixed title template.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/057-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-057-prompt.en.md)
+
+## The original brief is authoritative
+
+`references/057-source.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+
+Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
+
+## Four combinable output modes
+
+Select one or more of `top-bottom`, `left-right`, `design-only`, and `wallpaper-pack`. When several are selected, each is generated independently with its own prompt.
+
+- `top-bottom`: one complete canvas with the reality view above and transformed design below.
+- `left-right`: one complete canvas whose left-right structure runs from top edge to bottom edge, source left and design right. Typography stays inside that structure rather than creating a shared third footer; widths may be asymmetric.
+- `design-only`: the source is a non-visible reference for identity, structure, colour logic, and facts; every visible element follows this Panel's transformation language.
+- `wallpaper-pack`: each device receives an independently composed full-canvas transformed wallpaper, with no source-photo region.
+
+There is no seam, midpoint-percentage, or pixel-coordinate test. Deterministic assembly is used only when the user explicitly requests exact panel geometry or pixel-identical source preservation.
+
+Ordinary sizes are also multi-select: auto-fit, source aspect, 1:1, 3:4, 4:3, 4:5, 5:4, 2:3, 3:2, 9:16, 16:9, 21:9, 5:7, 7:5, or custom ratios/exact pixels. There is no silent default. Every distinct aspect is independently recomposed from the same verbatim source brief.
+
+Wallpaper packs may be linked or independent. A linked pack creates one anchor image, then recomposes each remaining device from the original source plus that anchor; it never crops one image into four sizes.
+
+Each invocation creates one task directory and writes every final PNG directly into it, with no source, mode, size, or device subfolders. Filenames include source order and a sanitized source name, for example `source-001-street-left-right-3x2-2160x1440.png` and `source-001-street-wallpaper-linked-phone-1440x3200.png`.
+
+Pass an image directory directly to batch-process it with this same Soldier. Every discovered image keeps Panel 057's one original aesthetic. The Skill recursively inventories common raster formats, reports the count, resolves shared mode/size/text/locale settings once, and then generates each source independently without content or copy leaking between items. The whole batch still uses one flat task directory; an individual failure is recorded without silently dropping later images.
+
+## Text modes
+
+Before generation, resolve one of three choices:
+
+1. **Model generates text from the original prompt**: the user supplies only the language or locale; GPT Image 2 follows the source brief's wording, amount, tone, and typography logic. Every word arises from the current image's content, atmosphere, or implied meaning, and anything presented as factual or documentary information must be grounded in supplied, visible, or verified facts.
+2. **Use my exact text**: pass it verbatim, without rewriting, translating, or adding a title; typography still follows the source brief.
+3. **No text**: prohibit visible text and pseudo-text.
+
+The outer Skill no longer pre-writes titles, microcopy, or copy packages. Output language is resolved separately from the interface language and is never guessed from a person, scene, or filename.
+
+## Complete-canvas first, raster-only delivery
+
+The image model owns the aesthetics of the entire finished composition; paired layouts also default to one complete-canvas generation. `scripts/compose_panel.py` remains only for condition-based recovery, lossless pixel calibration, and read-only audit. It is not run pre-emptively and does not judge aesthetic success.
+
+Every deliverable is a raster PNG and every invocation creates a fresh task under `~/Desktop/xxd/`. The configured image route exposes sanitised status only—never providers, endpoints, credentials, headers, prompts, responses, or account details. SVG, HTML, Canvas, diagrams, and programmatic drawing are not substitutes for the final artwork.
+
+## Capability-adaptive questions and inline parameters
+
+The same Skill adapts to the host's real interaction capabilities and never presents decorative symbols as clickable controls:
+
+- **When Claude Code exposes `AskUserQuestion + multiSelect: true`**: modes and sizes use genuine checkboxes; text mode and wallpaper relationship use single-select. Common sizes are grouped into square, portrait, and landscape checkbox questions, selections accumulate across groups, and custom sizes use free input.
+- **When Codex exposes only `request_user_input`**: use it only for mutually exclusive fields such as text mode and wallpaper relationship. Do not misrepresent modes or sizes as single-choice; collect them through clear combination input.
+- **With no interactive question tool**: use two typed rounds—modes first, then sizes plus text. Never draw fake `- [ ]` boxes or ask the user to switch to Plan mode merely to obtain a form.
+
+The second round initially shows only Smart recommendation, Source aspect, Common ratios, and Custom. Expand the full library only when requested: square `1:1`; portrait `3:4, 4:5, 2:3, 9:16, 5:7`; landscape `4:3, 5:4, 3:2, 16:9, 21:9, 7:5`. Any ratios may be combined, and exact pixels are always accepted.
+
+All settings can also be passed inline:
+
+```text
+/xxd-panel-057 photo.jpg --mode top-bottom,design-only --size auto,3:4,9:16 --text prompt --locale ja-JP
+```
+
+Supported parameters are `--mode`, repeatable or comma-separated `--size`, `--text prompt|exact|none`, `--locale`, `--copy`, `--wallpaper linked|independent`, `--wallpaper-size`, and `--out`. Complete parameters skip preflight; partial parameters trigger only missing questions.
+
+Replace `photo.jpg` with an image-directory path to enter batch processing automatically; no separate `--batch` switch is required.
+
+### Parameter quick reference
+
+| Parameter | Purpose | Common values or format |
+|---|---|---|
+| `--mode` | Select one or more deliverable types | `top-bottom`, `left-right`, `design-only`, `wallpaper-pack` |
+| `--size` | Select ordinary-output ratios or exact pixels; accepts several | `auto`, `source`, `3:4`, `9:16`, `2160x3840` |
+| `--text` | Choose the source of visible text | `prompt`, `exact`, `none` |
+| `--locale` | Set the language or locale of visible text | `zh-CN`, `en-GB`, `ja-JP`, `ko-KR`, `ar-SA` |
+| `--copy` | Pass user wording verbatim and imply `--text exact` | `--copy "Exact wording"` |
+| `--wallpaper` | Set the relationship among four wallpapers | `linked`, `independent` |
+| `--wallpaper-size` | Override pixel sizes by device | `phone=...`, `ipad=...`, `desktop=...`, `watch=...` |
+| `--out` | Set an output root; a fresh task folder is still created | folder path |
+
+Replace `photo.jpg` with a local path, uploaded image, image directory, or another source explicitly supplied by the user. A directory enters batch processing automatically.
+
+### Copyable commands by use case
+
+```text
+# Top-bottom comparison, auto canvas, prompt-generated British English
+/xxd-panel-057 photo.jpg --mode top-bottom --size auto --text prompt --locale en-GB
+
+# Left-right comparison, 3:2 landscape, no text
+/xxd-panel-057 photo.jpg --mode left-right --size 3:2 --text none
+
+# Design-only, 9:16 phone portrait, Japanese text
+/xxd-panel-057 photo.jpg --mode design-only --size 9:16 --text prompt --locale ja-JP
+
+# Linked wallpaper pack: establish one anchor, then recompose every device
+/xxd-panel-057 photo.jpg --mode wallpaper-pack --wallpaper linked --text none
+
+# Independent wallpapers with exact device resolutions
+/xxd-panel-057 photo.jpg --mode wallpaper-pack --wallpaper independent --wallpaper-size phone=1440x3200,ipad=2048x2732,desktop=3840x2160,watch=1024x1024 --text none
+
+# Follow the source image's aspect ratio
+/xxd-panel-057 photo.jpg --mode design-only --size source --text none
+
+# Create square, portrait, and landscape compositions
+/xxd-panel-057 photo.jpg --mode design-only --size 1:1,3:4,16:9 --text none
+
+# Combine a custom ratio with exact pixel targets
+/xxd-panel-057 photo.jpg --mode design-only --size 11:14,2160x3840,3840x2160 --text none
+
+# Let the original prompt generate wording; constrain only the locale
+/xxd-panel-057 photo.jpg --mode design-only --size 3:4 --text prompt --locale en-GB
+
+# Use exact copy without rewriting, translating, or adding a title
+/xxd-panel-057 photo.jpg --mode design-only --size 3:4 --copy "Let the light stay" --locale en-GB
+
+# Two modes × three sizes produce six independently composed assets
+/xxd-panel-057 photo.jpg --mode top-bottom,design-only --size 1:1,3:4,9:16 --text prompt --locale en-GB
+
+# Apply Panel 057 to a whole directory; shared settings resolve once
+/xxd-panel-057 "/path/to/photos" --mode design-only --size auto,9:16 --text prompt --locale en-GB
+
+# Repeated parameters accumulate; place the task under a chosen root
+/xxd-panel-057 photo.jpg --mode top-bottom --mode left-right --size 3:4 --size 16:9 --text none --out ./deliveries
+```
+
+## Image-model priority
+
+GPT Image 2 is the default first choice. It keeps this project's established workflow: high-fidelity source reference, explicit whole-canvas selection before generation, one complete-canvas generation for paired modes, and scripted composition only as a conditional fallback.
+
+Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model may also be used when it is actually available through the current tools or configured routes and can satisfy source fidelity, whole-canvas ratio, target-language text, and linked-wallpaper multi-reference requirements. An alternative changes only the generation route; it must not change modes, canvas, copy, locale, wallpaper relationship, or the complete-canvas-first strategy.
+
+If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
+
+## Get started
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-057.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-057" ~/.codex/skills/xxd-panel-057
+```
+
+Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-057`. Restart the agent session after installation.
+
+```text
+$xxd-panel-057
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/057-source.md) · [English runtime adapter](references/xxd-panel-057-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-057-prompt.zh-CN.md)
+
+<!-- xxd-panel-catalog:start -->
+## Complete XXD Panel catalog
+
+Each of the 57 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+
+| Project | Style characteristics |
+|---|---|
+| [xxd-panel-001](https://github.com/nevertoday/xxd-panel-001) | NAÏVE LINE · RETRO PAPER · MIXED MEDIA · WITTY METAPHOR · WARM SPACE |
+| [xxd-panel-002](https://github.com/nevertoday/xxd-panel-002) | NARRATIVE CONTOUR · HESITANT LINE · ANALOGOUS COLOUR · SELECTIVE ENLARGEMENT · MISREGISTERED TYPE |
+| [xxd-panel-003](https://github.com/nevertoday/xxd-panel-003) | CONTINUOUS BLACK LINE · PUBLIC ISSUE · FORCE POINTS · SILENT SPACE · RELEASE |
+| [xxd-panel-004](https://github.com/nevertoday/xxd-panel-004) | LOCAL REALITY · PRECISE SINGLE LINE · GEOMETRIC PERSPECTIVE · THEME COLOUR · CITY-BRAND TYPE |
+| [xxd-panel-005](https://github.com/nevertoday/xxd-panel-005) | BLUNT MASSES · DARK STRUCTURAL FIELD · PARTIAL REVEAL · THREE-LAYER COLOUR · SCREENPRINT × PASTEL |
+| [xxd-panel-006](https://github.com/nevertoday/xxd-panel-006) | 10–20% SUBJECT · 80–90% PAPER · FINE HAND LINE · FOUR COLOURS MAX · FLAT ACRYLIC |
+| [xxd-panel-007](https://github.com/nevertoday/xxd-panel-007) | OBJECT-LIKE MINIATURES · CLOSE-UP / SECTION / REPEAT · STAGGERED PAPER · THIN BLACK NOTES |
+| [xxd-panel-008](https://github.com/nevertoday/xxd-panel-008) | ORTHOGRAPHIC ISOMETRIC · PLATFORMS / STAIRS / DOORS · SPATIAL PARADOX · DYNAMIC PASTELS · MATTE 3D |
+| [xxd-panel-009](https://github.com/nevertoday/xxd-panel-009) | TINY ANCHOR · VAST NEGATIVE SPACE · ONE SPATIAL RELATION · SPOT COLOUR · HALFTONE SCREENPRINT |
+| [xxd-panel-010](https://github.com/nevertoday/xxd-panel-010) | ROUGH BLACK SILHOUETTE · WHITE FEATURE CUTOUT · DRY-MEDIA PAPER · SPARSE SETTING MARKS · PICTURE-BOOK TYPE |
+| [xxd-panel-011](https://github.com/nevertoday/xxd-panel-011) | ONE CORE IMAGE · ONE RELATION · CONTINUOUS BLACK LINE · ACTIVE SILENCE · ONE MEMORY COLOUR |
+| [xxd-panel-012](https://github.com/nevertoday/xxd-panel-012) | DENSE EMERGENCE · SPARSE DIFFUSION · GEOMETRIC RESTRAINT · ONE VITAL COLOUR · BLACK-GREY MICROTYPE |
+| [xxd-panel-013](https://github.com/nevertoday/xxd-panel-013) | ONE HORIZONTAL TICKET · 74/26 SPLIT · HEALING WATERCOLOUR · IVORY SPACE · LOCALISED INFORMATION STUB |
+| [xxd-panel-014](https://github.com/nevertoday/xxd-panel-014) | FOLD AND FACET · LAYER AND NEST · SOURCE-LED WEIGHT · REAL PAPER FIBRE · READABLE PAPER TYPE |
+| [xxd-panel-015](https://github.com/nevertoday/xxd-panel-015) | DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE |
+| [xxd-panel-016](https://github.com/nevertoday/xxd-panel-016) | ONE SUBJECT · ONE MOTION · A LARGE FIELD OF AIR |
+| [xxd-panel-017](https://github.com/nevertoday/xxd-panel-017) | ROUNDED FORM · ROUGH BROKEN LINE · PURE FLAT FILL · BRIGHT FIELDS · LIVELY ASYMMETRY |
+| [xxd-panel-018](https://github.com/nevertoday/xxd-panel-018) | ONE VISUAL ANCHOR · FEW DEPTH LAYERS · WARM-IVORY SPACE · MATTE PAPER · COMPLETE MICROTYPE |
+| [xxd-panel-019](https://github.com/nevertoday/xxd-panel-019) | RECOGNISE FIRST · REDUCE WITH INTENT · COMPOSE WITH TYPE |
+| [xxd-panel-020](https://github.com/nevertoday/xxd-panel-020) | DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE |
+| [xxd-panel-021](https://github.com/nevertoday/xxd-panel-021) | PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · JITTERY PHOTOCOPY LINE · WHITE NEGATIVE FORM |
+| [xxd-panel-022](https://github.com/nevertoday/xxd-panel-022) | PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · CLEAN ELASTIC LINE · ONE COLOUR SIGNAL |
+| [xxd-panel-023](https://github.com/nevertoday/xxd-panel-023) | SOURCE-CHOSEN WINDOW · PALE BREATHING GROUND · LIVING COLOURED LIGHT · SPRAY GRAIN · DIFFUSE PROJECTION |
+| [xxd-panel-024](https://github.com/nevertoday/xxd-panel-024) | PHOTOGRAPHIC SUBJECT · NARROW PALE WINDOW · SOURCE-ADAPTIVE DIRECTION · EASTERN WHITESPACE · PREMIUM EDITORIAL TYPE |
+| [xxd-panel-025](https://github.com/nevertoday/xxd-panel-025) | FIRST-GLANCE SUBJECT · SECOND-GLANCE IMAGE · FIGURE–GROUND REVERSAL · 2–4 MORANDI COLOURS · PHYSICAL SCREENPRINT |
+| [xxd-panel-026](https://github.com/nevertoday/xxd-panel-026) | RECOGNISE QUIETLY · REDUCE GENTLY · LET THE PAPER BREATHE |
+| [xxd-panel-027](https://github.com/nevertoday/xxd-panel-027) | HEAVY IVORY PAPER · EMBOSS AND DEBOSS · FINE INCISION · MATTE-GOLD FOCUS · MUSEUM ORDER |
+| [xxd-panel-028](https://github.com/nevertoday/xxd-panel-028) | ORTHOGRAPHIC ISOMETRIC · SMALL PAPER BASE · SOURCE-DERIVED PALETTE · FINE INK · EDITORIAL MODEL |
+| [xxd-panel-029](https://github.com/nevertoday/xxd-panel-029) | HORIZONTAL FIELD · LIGHT WAX PASTEL · ROUGH HANDMADE PAPER · RISOGRAPH GRAIN · RELAXED HANDWRITING |
+| [xxd-panel-030](https://github.com/nevertoday/xxd-panel-030) | REAL BOTANICAL MATERIAL · RECTANGULAR FIELD · NATURAL CROSSING · MINIMAL BLACK LINE · EDITORIAL WHITESPACE |
+| [xxd-panel-031](https://github.com/nevertoday/xxd-panel-031) | ONE CORE MOTIF · SOURCE-DERIVED GEOMETRY · FOLK CATALOGUE · ROUGH INTERNAL INK · CRISP ORDER |
+| [xxd-panel-032](https://github.com/nevertoday/xxd-panel-032) | TEXT–IMAGE UNITY · NATIVE LETTERING · SOURCE FEATURE · OPTICAL SPACING · GENEROUS WHITESPACE |
+| [xxd-panel-033](https://github.com/nevertoday/xxd-panel-033) | RECOGNISABLE MOTIF · LAYERED COLLAGE · SCALE CONTRAST · VIVID SOURCE COLOUR · COVER TYPE |
+| [xxd-panel-034](https://github.com/nevertoday/xxd-panel-034) | SMALL STAMP · 2–4 SPOT INKS · HAND-CARVED LINE · WARM PAPER · FIELD ANNOTATION |
+| [xxd-panel-035](https://github.com/nevertoday/xxd-panel-035) | ONE BLOCK SUBJECT · VIVID SOURCE COLOUR · MATTE ABS · QUIET FIELD · MODULAR TYPE |
+| [xxd-panel-036](https://github.com/nevertoday/xxd-panel-036) | ONE RELATION · FINE LINE · 2–4 COLOUR FIELDS · WATERCOLOUR EDGE · BREATHING SPACE |
+| [xxd-panel-037](https://github.com/nevertoday/xxd-panel-037) | ONE BADGE · SOURCE ENAMEL · WHITE-METAL RIM · GILDED DETAIL · REAL SHADOW |
+| [xxd-panel-038](https://github.com/nevertoday/xxd-panel-038) | SOURCE FABRIC · FRAYED EDGE · HAND STITCH · ACTIVE WHITESPACE · HIDDEN FEELING |
+| [xxd-panel-039](https://github.com/nevertoday/xxd-panel-039) | ONE IMAGE · ONE ESSENCE · SILK DIRECTION · CLEAN GROUND · EASTERN SILENCE |
+| [xxd-panel-040](https://github.com/nevertoday/xxd-panel-040) | TRUTHFUL ANCHOR · BLACK-LINE FIGURES · MICRO-NARRATIVE · ACTIVE WHITESPACE |
+| [xxd-panel-041](https://github.com/nevertoday/xxd-panel-041) | THEME METAPHOR · ISOMETRIC ORDER · PALE MANUSCRIPT · JAPANESE COLOUR · EASTERN SPACE |
+| [xxd-panel-042](https://github.com/nevertoday/xxd-panel-042) | ORIGINAL VIEW · 2–5 TRUE LAYERS · STABLE ANCHOR · TRANSLUCENT WATERCOLOUR · EDITORIAL NOTE |
+| [xxd-panel-043](https://github.com/nevertoday/xxd-panel-043) | REAL LATHER · FRONTAL FLAT-LAY · SOURCE-DARK GROUND · MICRO-BUBBLE EDGE · QUIET SPACE |
+| [xxd-panel-044](https://github.com/nevertoday/xxd-panel-044) | THIN GOLD · FRONTAL PLANE · SOURCE-DARK GROUND · HAMMERED TRACE · QUIET ORDER |
+| [xxd-panel-045](https://github.com/nevertoday/xxd-panel-045) | ROUNDED MODULE · SOURCE COLOUR · ISOMETRIC DEPTH · MATTE TOUCH · EDITORIAL MICROTYPE |
+| [xxd-panel-046](https://github.com/nevertoday/xxd-panel-046) | BRIGHT GROUND · VIVID IMPASTO · MINIATURE VOLUME · DIAGONAL FIELD · WARM LIGHT |
+| [xxd-panel-047](https://github.com/nevertoday/xxd-panel-047) | ISOMETRIC MINIATURE · THEMATIC IMPASTO · REAL CONTACT · WARM-WHITE PAPER · LUMINOUS COLOUR |
+| [xxd-panel-048](https://github.com/nevertoday/xxd-panel-048) | TRANSPARENT STRUCTURE · SCIENTIFIC ILLUSTRATION · LUCID MONOCHROME · PRECISE ANNOTATION · EDITORIAL SPACE |
+| [xxd-panel-049](https://github.com/nevertoday/xxd-panel-049) | LIMITED-COLOUR WOODCUT · HAND-CARVED MARKS · MATTE INK · WARM PAPER · BROKEN EDGES |
+| [xxd-panel-050](https://github.com/nevertoday/xxd-panel-050) | BESPOKE TRAVEL SCENE · AIRY BLUE · MINIMAL FLAT VECTOR · EDITORIAL WHITESPACE · ONE IMAGE, ONE IDENTITY |
+| [xxd-panel-051](https://github.com/nevertoday/xxd-panel-051) | MINIATURE PAPER CRAFT · HORIZONTAL FLOATING LANDSCAPE · HANDMADE EVIDENCE · AIRY BLUE · VAST WHITESPACE |
+| [xxd-panel-052](https://github.com/nevertoday/xxd-panel-052) | PAPER-CRAFT MINIATURE · HORIZONTAL FLOATING STRIP · HANDMADE MATERIAL · AIRY COOL BLUE · GENEROUS SPACE |
+| [xxd-panel-053](https://github.com/nevertoday/xxd-panel-053) | OBSERVATIONAL PEN · TRANSPARENT WASH · MUSICAL RHYTHM · NEAR-WHITE PAPER · ACTIVE WHITESPACE |
+| [xxd-panel-054](https://github.com/nevertoday/xxd-panel-054) | SELECTIVE MEMORY · MAIN VISUAL · SIX STICKERS · MATTE PRINT · AIRY BLUE |
+| [xxd-panel-055](https://github.com/nevertoday/xxd-panel-055) | SUBJECT NARRATIVE · HEALING PASTELS · LIGHT OIL TEXTURE · AIRY BLUE · EDITORIAL SPACE |
+| [xxd-panel-056](https://github.com/nevertoday/xxd-panel-056) | CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAPHOR |
+| **[xxd-panel-057](https://github.com/nevertoday/xxd-panel-057)** | GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL DIAGRAM · ART MAP · WARM–COOL FIELDS |
+<!-- xxd-panel-catalog:end -->
+
+## About XXD
+
+XXD is Xiaoxiaodong's abbreviated brand name. Created and maintained by [@xiaoxiaodong01](https://x.com/xiaoxiaodong01).
+
+## Support and membership
+
+### In-depth consultation · CNY 299/hour
+
+One-to-one in-depth consultation for using Skills. Contact Xiaoxiaodong through WeChat. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+
+### Xiaoxiaodong Skills User Community · CNY 168
+
+A one-time fee joins the Skills user community for workflow sharing and peer discussion; hourly consultation is separate.
+
+<!-- xxd-panel-command-system:start -->
+**Community members can use the General Skill that commands the whole roster**
+
+| Level | Skill | Responsibility |
+|---|---|---|
+| **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available numbered Skills; recommend by image, theme, or use; dispatch a chosen number; organize multi-style trials; and assign folders of images to individual jobs. |
+| **Soldiers** | `xxd-panel-NNN` (currently 001–057) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
+
+The General Skill is the command center for the entire numbered-Skill roster. Community members can use it and receive help with installation, updates, roster setup, and dispatch workflows. The General organizes and routes; it never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished asset is still created independently by the selected Soldier Skill.
+<!-- xxd-panel-command-system:end -->
+
+### Knowledge Planet + Member Prompt Library · CNY 699/year
+
+One annual payment opens both Knowledge Planet and the member prompt library. Join either side, then contact Xiaoxiaodong on WeChat for the other access.
+
+[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) · [Member Prompt Library](https://vip.xiaoxiaodong.ai/)
+
+<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
+
+<div align="center"><strong>Let the mark pause, let the colour shift, and let the feeling remain.</strong></div>
+
+---
+
+<div align="center">
+
+## Support this open-source project
+
+If this project helps you, you’re welcome to support it through Buy Me a Coffee—entirely optional.
+
+
+<p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
+
+</div>
