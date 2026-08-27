@@ -9,5 +9,8 @@ Verified source: https://x.com/xiaoxiaodong01/status/2092160522711978218
 - Local files:
   - `sample-01.jpg` — main post image, 1086 × 1448
   - `sample-02.jpg` — direct-reply image, 1086 × 1448
+  - `sample-06.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
+  - `sample-07.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
+  - `sample-08.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
 
 The repository READMEs display these local copies and link every image back to the original X thread. The samples demonstrate the style's aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.
