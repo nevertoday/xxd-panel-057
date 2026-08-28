@@ -7,7 +7,6 @@
 - Project assignment: `VOL.057`
 - Original X sample files:
   - `sample-01.jpg`
-  - `sample-02.jpg`
 
 ## Additional landscape samples
 

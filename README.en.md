@@ -41,7 +41,6 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
 <table>
   <tr>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2092160522711978218"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 057 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2092160522711978218"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 057 sample 2"></a></td>
   </tr>
 </table>
 
