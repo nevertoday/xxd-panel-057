@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 057
+# 🦁 XXD Panel 057｜几何记忆场
 
 ### 用几何构成与智能马赛克，把照片重组为安静而温暖的现代拼贴
 

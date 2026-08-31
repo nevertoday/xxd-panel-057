@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 057
+# 🦁 XXD Panel 057｜Geometric Memory Field
 
 ### Rebuild photographs as quiet, warm modern collages through geometry and intelligent mosaic structure
 
